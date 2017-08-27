@@ -29,7 +29,7 @@
                         sobre danzas y ritmos folklóricos cubanos.
 
                         <br><br>
-                        En el año 2001 viaja a Cuba y conoce al Maestro Eduardo Rivero Walker
+                        En el año 2001 viaja a Cuba para conocer al Maestro Eduardo Rivero Walker
                         (Premio Nacional de Danza en ese país, 2001), director de la Compañía
                         Teatro de la Danza Del Caribe. Quien fuera su formador en la Técnica Cubana de
                         Danza Moderna, siendo la única extranjera que ha tenido ese honor, privilegio y

@@ -80,14 +80,7 @@
                 </div>
             </div>
         </div>
-
-
-        <br>
-        <p>
-            <strong>
-                Ofrecemos clases de: Técnica Clásica, Danza Moderna Cubana (estilo Eduardo Rivero) y Técnica Afro Contemporánea
-            </strong>
-        </p>
+        
         <br>
         <table class="table table-striped hidden-xs" data-animate="fadeIn">
             <thead>
