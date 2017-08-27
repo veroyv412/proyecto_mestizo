@@ -15,7 +15,7 @@
 
             <div class="col_half col_last tright">
                 <div class="fright clearfix">
-                    
+                    Desarrollo Web: Veronica Nisenbaum
                 </div>
             </div>
 

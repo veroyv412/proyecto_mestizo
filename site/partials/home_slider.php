@@ -24,7 +24,7 @@
                         </div>
                     </div>
                     <div class="video-wrap">
-                        <video id="slide-video"  preload="auto" loop autoplay muted>
+                        <video id="slide-video" poster="images/gaby_fabro/_IMG_9705_3.jpg"  preload="auto" loop autoplay muted>
                             <source src='images/gaby_fabro/escuela_pm.mp4' type='video/mp4' />
                         </video>
                         <div class="video-overlay" style="background-color: rgba(0,0,0,0.55);"></div>

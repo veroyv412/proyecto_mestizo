@@ -22,7 +22,7 @@
                     <h3>Tecnica Clásica dasdasdas</h3>
                     <h6>Martes y Viernes 10.30hs | Miércoles 19.00hs | Jueves 15.30hs </h6>
                     <p>
-                        Estas sss clases están pensadas para que el estudiante de danza pueda adquirir y aprovechar
+                        Estas clases están pensadas para que el estudiante de danza pueda adquirir y aprovechar
                         los beneficios que la técnica clásica ofrece, como técnica madre.
                         El objetivos NO es formar bailarines de la estilística del ballet, sino que incorporen la
                         mecánica de la Técnica. “... Pensarse el propio cuerpo, para luego poder sentirlo.
