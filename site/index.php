@@ -24,6 +24,11 @@
     <link rel="stylesheet" href="css/responsive.css" type="text/css" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
+    <meta property="og:url" content="http://gabyfabro.com">
+    <meta property="og:title" content="Bailarina, Coreógrafa y Directora">
+    <meta property="og:description" content="Bailarina, Coreógrafa, Directora de la Escuela de Danzas Proyecto Mestizo y de la Compañía de Danza Proyecto Mestizo.">
+    <meta property="og:image" content="http://gabyfabro.com/images/gaby_fabro/gaby_fabro_seo.jpg">
+
     <!-- Document Title
     ============================================= -->
     <title>Gaby Fabro</title>
