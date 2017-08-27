@@ -5,8 +5,12 @@
         <h1>Calendario de Clases</h1>
     </div>
     <br>
-    <h5 class="center">Los cursos regulares se desarrollan entre los meses de marzo y diciembre de cada año,
-        y están orientados a niños, adolescentes y adultos.</h5>
+    <h5 class="center">
+        Los cursos regulares se desarrollan entre los meses de marzo y diciembre de cada año, y están orientados a niños, adolescentes y adultos.
+        <br>Ofrecemos clases de: Técnica Clásica, Danza Moderna Cubana (estilo Eduardo Rivero) y Técnica Afro Contemporánea.
+        <br>Asimismo se desarrollan clases de Yoga.
+        <br>Eventualmente se desarrollan talleres de Tango y Rumba.
+    </h5>
 
     <br>
 
@@ -19,7 +23,7 @@
                     <img src="images/gaby_fabro/gaby_clasica.jpg" alt="Gaby Fabro - Danza Clasica">
                 </div>
                 <div class="fbox-desc">
-                    <h3>Tecnica Clásica dasdasdas</h3>
+                    <h3>Tecnica Clásica</h3>
                     <h6>Martes y Viernes 10.30hs | Miércoles 19.00hs | Jueves 15.30hs </h6>
                     <p>
                         Estas clases están pensadas para que el estudiante de danza pueda adquirir y aprovechar

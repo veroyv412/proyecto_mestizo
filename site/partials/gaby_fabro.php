@@ -9,8 +9,8 @@
             <img src="images/gaby_fabro/_IMG_9785_2.jpg" alt="Gaby Fabro" data-animate="bounceInLeft" class="center-block">
             <br>
             <blockquote>
-                <p>"El Arte no admite conseciones"</p>
-                <footer>Maestro Rivero</footer>
+                <p>"... El Arte no admite concesiones ... "</p>
+                <footer>Maestro Eduardo Rivero Walker</footer>
             </blockquote>
         </div>
 
