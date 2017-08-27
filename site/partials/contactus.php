@@ -1,8 +1,8 @@
 <div id="contactus" class="page-section notoppadding">
 
     <div class="row norightmargin topmargin bottommargin-lg common-height">
-        <div id="headquarters-map" class="col-md-8 col-sm-6 gmap hidden-xs"></div>
-        <div class="col-md-4 col-sm-6" style="background-color: #F5F5F5;">
+        <div id="headquarters-map" class="col-md-7 col-sm-6 gmap hidden-xs" style="height: 350px"></div>
+        <div class="col-md-5 col-sm-6" style="background-color: #F5F5F5;">
             <div class="col-padding max-height">
                 <h3 class="font-body t400 ls1">Mi Escuela</h3>
 
@@ -16,7 +16,7 @@
                     <div class="clear topmargin"></div>
 
                     <abbr title="Phone Number"><strong>Telefono:</strong></abbr> +54 (011) 3970-7122<br>
-                    <abbr title="Email Address"><strong>Email:</strong></abbr> escuelaproyectomestizo@yahoo.com.ar
+                    <abbr title="Email Address"><strong>Email:</strong></abbr> <a href="mailto:escuelaproyectomestizo@yahoo.com.ar">escuelaproyectomestizo@yahoo.com.ar</a>
                 </div>
             </div>
         </div>

@@ -19,9 +19,10 @@
                     <img src="images/gaby_fabro/gaby_clasica.jpg" alt="Gaby Fabro - Danza Clasica">
                 </div>
                 <div class="fbox-desc">
-                    <h3>Tecnica Clásica</h3>
+                    <h3>Tecnica Clásica dasdasdas</h3>
+                    <h6>Martes y Viernes 10.30hs | Miércoles 19.00hs | Jueves 15.30hs </h6>
                     <p>
-                        Estas clases están pensadas para que el estudiante de danza pueda adquirir y aprovechar
+                        Estas sss clases están pensadas para que el estudiante de danza pueda adquirir y aprovechar
                         los beneficios que la técnica clásica ofrece, como técnica madre.
                         El objetivos NO es formar bailarines de la estilística del ballet, sino que incorporen la
                         mecánica de la Técnica. “... Pensarse el propio cuerpo, para luego poder sentirlo.
@@ -39,6 +40,7 @@
                 </div>
                 <div class="fbox-desc">
                     <h3>Danza Moderna Cubana</h3>
+                    <h6>Lunes 20hs | Jueves 20.30hs </h6>
                     <p>
                         En Cuba la danza Moderna comienza como movimiento artístico de vanguardia en 1948 y
                         ya desde 1959 el Conjunto Nacional de Danza Moderna, se desarrolla como institución
@@ -63,6 +65,7 @@
                 </div>
                 <div class="fbox-desc">
                     <h3>Técnica Afro Contemporánea</h3>
+                    <h6>Lunes 19hs | Jueves 19.30hs </h6>
                     <p>
                         Basada en la técnica de la Danza Moderna Cubana, esta técnica prepara el cuerpo para
                         responder al lenguaje negro implícito. Complemento necesario para el bailarín que

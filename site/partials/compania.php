@@ -66,7 +66,7 @@
     
     <div id="posts" class="small-thumbs">
 
-        <div class="entry clearfix">
+        <div class="entry clearfix" data-animate="fadeIn">
             <div class="entry-image">
                 <a href="images/gaby_fabro/tango_1.jpg" data-lightbox="image"><img class="image_fade" src="images/gaby_fabro/tango_1.jpg" alt="Suit de tangos" style="opacity: 1;"></a>
             </div>
@@ -82,7 +82,7 @@
             </div>
         </div>
 
-        <div class="entry clearfix">
+        <div class="entry clearfix" data-animate="fadeIn">
             <div class="entry-image">
                 <a href="images/gaby_fabro/DSC_0046100312.jpg" data-lightbox="image"><img class="image_fade" src="images/gaby_fabro/DSC_0046100312.jpg" alt="Madres" style="opacity: 1;"></a>
             </div>
@@ -104,7 +104,7 @@
             </div>
         </div>
 
-        <div class="entry clearfix">
+        <div class="entry clearfix" data-animate="fadeIn">
             <div class="entry-image">
                 <a href="images/gaby_fabro/IMG_0938_ultima.jpg" data-lightbox="image"><img class="image_fade" src="images/gaby_fabro/IMG_0938_ultima.jpg" alt="Madres" style="opacity: 1;"></a>
             </div>
@@ -120,7 +120,7 @@
             </div>
         </div>
 
-        <div class="entry clearfix">
+        <div class="entry clearfix" data-animate="fadeIn">
             <div class="entry-image">
                 <a href="images/gaby_fabro/12208872_916939231708780_8012889015136329521_n.jpg" data-lightbox="image"><img class="image_fade" src="images/gaby_fabro/12208872_916939231708780_8012889015136329521_n.jpg" alt="Madres" style="opacity: 1;"></a>
             </div>
@@ -145,7 +145,7 @@
             </div>
         </div>
 
-        <div class="entry clearfix">
+        <div class="entry clearfix" data-animate="fadeIn">
             <div class="entry-image">
                 <a href="images/gaby_fabro/impresion_ciclo.jpg" data-lightbox="image"><img class="image_fade" src="images/gaby_fabro/impresion_ciclo.jpg" alt="Madres" style="opacity: 1;"></a>
             </div>
@@ -161,7 +161,7 @@
             </div>
         </div>
 
-        <div class="entry clearfix">
+        <div class="entry clearfix" data-animate="fadeIn">
             <div class="entry-image">
                 <a href="images/gaby_fabro/13063176_10207873257803675_5427996501546033890_o.jpg" data-lightbox="image"><img class="image_fade" src="images/gaby_fabro/13063176_10207873257803675_5427996501546033890_o.jpg" alt="Madres" style="opacity: 1;"></a>
             </div>
