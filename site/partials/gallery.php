@@ -1,8 +1,10 @@
 <div id="gallery" class="container clearfix">
     <!--<div class="divider divider-right"><i class="icon-heart"></i></div>-->
+
     <div class="heading-block center nomargin">
         <h1>GALERIA</h1>
     </div>
+    <br>
 
     <br>
     <div class="masonry-thumbs col-4 clearfix" data-lightbox="gallery" style="width: 100.3%;">

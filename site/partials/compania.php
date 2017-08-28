@@ -35,7 +35,7 @@
             <img src="images/gaby_fabro/_IMG_9743_3.jpg" alt="Gaby Fabro" data-animate="bounceInLeft" class="center-block">
         </div>
 
-        <div class="col-md-7 col-sm-6 topmargin bottommargin">
+        <div class="col-md-7 col-sm-6 bottommargin">
 
             <div class="col_full">
 
@@ -51,6 +51,8 @@
                         Manifiestan el poder del arte, la danza como herramienta de pensamiento.
                     </p>
 
+                    <br>
+                    <a href="https://vimeo.com/114915414" class="button button-3d button-rounded button-white button-light"  data-lightbox="iframe"><i class="icon-video"></i>Trailer Compañia</a>
                 </div>
             </div>
 
@@ -63,7 +65,7 @@
         <h2>REPERTORIO</h2>
     </div>
     <br>
-    
+
     <div id="posts" class="small-thumbs">
 
         <div class="entry clearfix" data-animate="fadeIn">
@@ -101,12 +103,14 @@
                     <p>Marzo–Abril, Espacio Cultural Carlos Gardel (CABA).&nbsp;<span data-ccp-props="{&quot;201341983&quot;:1,&quot;335551550&quot;:1,&quot;335551620&quot;:1,&quot;335559739&quot;:160,&quot;335559740&quot;:270}">&nbsp;</span></p>
                     <p>Agosto, Centro Cultural&nbsp;Adan&nbsp;Buenos Aires (CABA).</p>
                 </div>
+                <br><br>
+                <a href="https://vimeo.com/67771752" class="button button-3d button-rounded button-white button-light"  data-lightbox="iframe"><i class="icon-video"></i>Trailer Iroko</a>
             </div>
         </div>
 
         <div class="entry clearfix" data-animate="fadeIn">
             <div class="entry-image">
-                <a href="images/gaby_fabro/IMG_0938_ultima.jpg" data-lightbox="image"><img class="image_fade" src="images/gaby_fabro/IMG_0938_ultima.jpg" alt="Madres" style="opacity: 1;"></a>
+                <a href="images/gaby_fabro/kaidara.jpg" data-lightbox="image"><img class="image_fade" src="images/gaby_fabro/kaidara.jpg" alt="Kaidara" style="opacity: 1;"></a>
             </div>
             <div class="entry-c">
                 <div class="entry-title">
@@ -117,6 +121,9 @@
                     <p>2014<span data-ccp-props="{&quot;201341983&quot;:1,&quot;335551550&quot;:1,&quot;335551620&quot;:1,&quot;335559739&quot;:160,&quot;335559740&quot;:270}">&nbsp;</span></p>
                     <p>Octubre–Noviembre, Espacio PM Música y Danza (CABA)&nbsp;<span data-ccp-props="{&quot;201341983&quot;:1,&quot;335551550&quot;:1,&quot;335551620&quot;:1,&quot;335559739&quot;:160,&quot;335559740&quot;:270}">&nbsp;</span></p>
                 </div>
+
+                <br><br>
+                <a href="https://vimeo.com/119372333?ref=fb-share" class="button button-3d button-rounded button-white button-light"  data-lightbox="iframe"><i class="icon-video"></i>Trailer Kaidara</a>
             </div>
         </div>
 
@@ -142,6 +149,9 @@
                     <p>Agosto – Teatro&nbsp;Martí&nbsp;de Santiago de Cuba, en el marco de&nbsp;la celebración del&nbsp;homenaje al ya desaparecido Maestro Eduardo Rivero y al Maestro Ramiro&nbsp;Guerra, considerado el padre de la danza cubana.&nbsp;<span data-ccp-props="{&quot;201341983&quot;:1,&quot;335551550&quot;:1,&quot;335551620&quot;:1,&quot;335559739&quot;:160,&quot;335559740&quot;:270}">&nbsp;</span></p>
                     <p><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}">&nbsp;</span></p>
                 </div>
+
+                <br><br>
+                <a href="https://www.youtube.com/watch?v=vYnq8lYCFo8" class="button button-3d button-rounded button-white button-light"  data-lightbox="iframe"><i class="icon-video"></i>Trailer Ominira</a>
             </div>
         </div>
 
@@ -175,6 +185,9 @@
                     <p>Esta obra ha sido seleccionada y se&nbsp;presentó&nbsp;como apertura del Festival&nbsp;Internacional LA PLATA DANZA X LA IDENTIDAD 2016, el 1° de&nbsp;octubre&nbsp;de&nbsp;2016 en el Teatro Argentino de La Plata.&nbsp;<span data-ccp-props="{&quot;201341983&quot;:1,&quot;335551550&quot;:1,&quot;335551620&quot;:1,&quot;335559739&quot;:160,&quot;335559740&quot;:270}">&nbsp;</span></p>
                     <p>Presentada en el Teatro de la Universidad Nacional Arturo Jauretche&nbsp;(UNAJ) el&nbsp;18 de&nbsp;mayo&nbsp;de 2017, en el marco del dictado de la&nbsp;asignatura&nbsp;Prácticas&nbsp;Culturales.&nbsp;<span data-ccp-props="{&quot;201341983&quot;:1,&quot;335551550&quot;:1,&quot;335551620&quot;:1,&quot;335559739&quot;:160,&quot;335559740&quot;:270}">&nbsp;</span>
                 </div>
+
+                <br><br>
+                <a href="https://www.youtube.com/watch?v=ZMPs43RUmDQ" class="button button-3d button-rounded button-white button-light"  data-lightbox="iframe"><i class="icon-video"></i>Trailer Madres</a>
             </div>
         </div>
     </div>

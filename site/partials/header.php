@@ -24,8 +24,9 @@
                     <li class="current"><a href="#gallery"><div>Galería</div></a></li>
                     <li class="current"><a href="#clases"><div>Clases</div></a></li>
                     <li class="current"><a href="#compania"><div>Compañia</div></a></li>
+                    <!--<li class="current"><a href="#events"><div>Eventos</div></a></li>-->
                     <li class="current"><a href="#staff"><div>Staff</div></a></li>
-                    <li class="current"><a href="#contacus"><div>Contáctenos</div></a></li>
+                    <li class="current"><a href="#contactus"><div>Contáctenos</div></a></li>
                 </ul>
 
                 <!-- Top Cart

@@ -4,7 +4,7 @@
     </div>
 
     <br>
-    <div class="row" data-animate="fadeInRight">
+    <div class="row" data-animate="fadeIn">
 
         <div class="col-md-3 col-sm-6 bottommargin">
 

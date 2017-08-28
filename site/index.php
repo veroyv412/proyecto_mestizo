@@ -68,6 +68,7 @@
         <?php echo file_get_contents('./partials/proyecto_mestizo.php') ?>
         <?php echo file_get_contents('./partials/calendario_clases.php') ?>
         <?php echo file_get_contents('./partials/compania.php') ?>
+        <?php /*echo file_get_contents('./partials/events.php') */?>
         <?php echo file_get_contents('./partials/staff.php') ?>
         <?php echo file_get_contents('./partials/contactus.php') ?>
     </div>    

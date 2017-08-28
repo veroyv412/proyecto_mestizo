@@ -50,14 +50,16 @@
             collapsedHeight: 100
         });
 
-
         $('#headquarters-map').gMap({
             address: 'Hipolito Yirigoyen 3581, Buenos Aires, Argentina',
             maptype: 'ROADMAP',
-            zoom: 15,
+            zoom: 13,
             markers: [
                 {
-                    address: "Hipolito Yirigoyen 3581, Buenos Aires, Argentina",
+                    //address: "Hipolito Yirigoyen 3581, Almagro, Buenos Aires, Argentina",
+                    //position: new google.maps.LatLng(-34.613551,-58.416707),
+                    latitude: -34.613551,
+                    longitude: -58.416707,
                     html: "Escuela Proyecto Mestizo",
                     icon: {
                         image: "images/gaby_fabro/home_pm_pin_bw.png",
