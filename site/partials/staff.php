@@ -27,7 +27,7 @@
 
             <div class="team">
                 <div class="team-image">
-                    <img src="images/gaby_fabro/staff/421_1061558653526_4195_n.jpg" alt="Johanna D'Aquino" class="avatar">
+                    <img src="images/gaby_fabro/staff/johana_bw.jpg" alt="Johanna D'Aquino" class="avatar">
                 </div>
                 <div class="team-desc">
                     <div class="team-title"><h4>Johanna D'Aquino</h4><span>Fotografía y Video</span></div>
