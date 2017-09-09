@@ -89,11 +89,20 @@
                 <span>Compañía Proyecto Mestizo Convoca</span>
             </div>
             <div class="widget-subscribe-form-result">
-                Hombres y Mujeres que Bailen.<br>
-                Se requiere experiencia escénica.<br>
-                Para realizar una participación en la Obra OMINIRA de Gaby Fabro.<br>
-                El lenguaje danzario de la obra se basa en lo AFRO MODERNO. Esto NO es excluyente para poder audicionar. <br>
-                <br><br>
+                <ul class="iconlist">
+                    <li><i class="icon-ok-sign"></i> Hombres y Mujeres que Bailen.</li>
+                    <li><i class="icon-ok-sign"></i> Se requiere experiencia escénica.</li>
+                    <li><i class="icon-ok-sign"></i> Para realizar una participación en la Obra OMINIRA de Gaby Fabro.</li>
+                    <li><i class="icon-ok-sign"></i> El lenguaje danzario de la obra se basa en lo AFRO MODERNO. Esto NO es excluyente para poder audicionar.</li>
+                    <li><i class="icon-ok-sign"></i> Concurrir con vestimenta que permita observar bien la línea del cuerpo.</li>
+                </ul>
+                <p>
+                    Los días de ensayo de la Compañía son:<br>
+                    Miércoles y Viernes de 13.30hs a 17hs.<br>
+                    Pudiendo agregar algún horario de común acuerdo.<br><br>
+
+                    Las funciones se realizarán en los meses de OCTUBRE y NOVIEMBRE.<br>
+                </p>
 
                 <a class="button button-rounded button-border button-light noleftmargin"
                    onclick="$.magnificPopup.close();$('html, body').animate({ scrollTop: $('#novedades').offset().top }, 500);"
