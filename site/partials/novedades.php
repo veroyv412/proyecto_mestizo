@@ -4,7 +4,7 @@
     </div>
     <br>
 
-    <div class="row" id="next-novedad" data-animate="fadeInRight">
+    <div class="row" data-animate="fadeInRight">
         <div id="posts" class="events small-thumbs">
             <div class="entry clearfix" data-animate="fadeIn">
                 <div class="entry-image hidden-sm">
@@ -32,7 +32,7 @@
         </div>
     </div>
     <br>
-    <div class="row" data-animate="fadeInRight">
+    <div class="row" id="next-novedad"  data-animate="fadeInRight">
         <div id="posts" class="events small-thumbs">
             <div class="entry clearfix" data-animate="fadeIn">
                 <div class="entry-image hidden-sm">
