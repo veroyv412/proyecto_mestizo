@@ -117,7 +117,7 @@
                 <a class="button button-rounded button-border button-light noleftmargin"
                    onclick="$.magnificPopup.close();$('html, body').animate({ scrollTop: $('#next-novedad').offset().top }, 500);"
                    type="submit"
-                   style="margin-top:15px;">Siguiente > </a>
+                   style="margin-top:15px;">Siguiente <i class="icon-chevron-right"></i> </a>
             </div>
         </div>
     </div>
