@@ -81,95 +81,98 @@
             </div>
         </div>
         
-        <br><br>
-        <table class="table table-striped hidden-xs" data-animate="fadeIn">
-            <thead>
-            <tr>
-                <th>&nbsp;</th>
-                <th>Lunes</th>
-                <th>Martes</th>
-                <th>Miercoles</th>
-                <th>Jueves</th>
-                <th>Viernes</th>
-            </tr>
-            </thead>
-            <tbody>
-            <tr>
-                <td><h4 style="margin: 0;">10:00 am</h4></td>
-                <td><span class="empty"></span></td>
-                <td><span class="empty"></span></td>
-                <td>Tec. Clásica</td>
-                <td><span class="empty"></span></td>
-                <td>Danza Moderna Cubana</td>
-            </tr>
-            <tr>
-                <td><h4 style="margin: 0;">15:30 pm</h4></td>
-                <td>Tec. Clásica</td>
-                <td><span class="empty"></span></td>
-                <td><span class="empty"></span></td>
-                <td>Tec. Clásica</td>
-                <td><span class="empty"></span></td>
-            </tr>
-            <tr>
-                <td><h4 style="margin: 0;">17:00 pm</h4></td>
-                <td>Yoga</td>
-                <td><span class="empty"></span></td>
-                <td><span class="empty"></span></td>
-                <td>Yoga</td>
-                <td><span class="empty"></span></td>
-            </tr>
-            <tr>
-                <td><h4 style="margin: 0;">18:00 pm</h4></td>
-                <td><span class="empty"></span></td>
-                <td><span class="empty"></span></td>
-                <td>Estiramiento y Acondicionamiento Físico</td>
-                <td><span class="empty"></span></td>
-                <td><span class="empty"></span></td>
-            </tr>
-            <tr>
-                <td><h4 style="margin: 0;">18:30 pm</h4></td>
-                <td><span class="empty"></span></td>
-                <td>Danza para niños</td>
-                <td><span class="empty"></span></td>
-                <td>Danza para niños</td>
-                <td><span class="empty"></span></td>
-            </tr>
-            <tr>
-                <td><h4 style="margin: 0;">19:00 pm</h4></td>
-                <td>Afro Contemporaneo</td>
-                <td><span class="empty"></span></td>
-                <td>Tec. Clásica</td>
-                <td><span class="empty"></span></td>
-                <td><span class="empty"></span></td>
-            </tr>
-            <tr>
-                <td><h4 style="margin: 0;">19:30 pm</h4></td>
-                <td><span class="empty"></span></td>
-                <td><span class="empty"></span></td>
-                <td><span class="empty"></span></td>
-                <td>Afro Contemporaneo</td>
-                <td><span class="empty"></span></td>
-            </tr>
-            <tr>
-                <td><h4 style="margin: 0;">20:00 pm</h4></td>
-                <td>Danza Moderna Cubana</td>
-                <td><span class="empty"></span></td>
-                <td><span class="empty"></span></td>
-                <td><span class="empty"></span></td>
-                <td><span class="empty"></span></td>
-            </tr>
-            <tr>
-                <td><h4 style="margin: 0;">20:30 pm</h4></td>
-                <td><span class="empty"></span></td>
-                <td><span class="empty"></span></td>
-                <td><span class="empty"></span></td>
-                <td>Danza Moderna Cubana</td>
-                <td><span class="empty"></span></td>
-            </tr>
-            </tbody>
-        </table>
+        <div class="hidden-xs">
+            <br><br>
+            <table class="table table-striped hidden-xs" data-animate="fadeIn">
+                <thead>
+                <tr>
+                    <th>&nbsp;</th>
+                    <th>Lunes</th>
+                    <th>Martes</th>
+                    <th>Miercoles</th>
+                    <th>Jueves</th>
+                    <th>Viernes</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                    <td><h4 style="margin: 0;">10:00 am</h4></td>
+                    <td><span class="empty"></span></td>
+                    <td><span class="empty"></span></td>
+                    <td>Tec. Clásica</td>
+                    <td><span class="empty"></span></td>
+                    <td>Danza Moderna Cubana</td>
+                </tr>
+                <tr>
+                    <td><h4 style="margin: 0;">15:30 pm</h4></td>
+                    <td>Tec. Clásica</td>
+                    <td><span class="empty"></span></td>
+                    <td><span class="empty"></span></td>
+                    <td>Tec. Clásica</td>
+                    <td><span class="empty"></span></td>
+                </tr>
+                <tr>
+                    <td><h4 style="margin: 0;">17:00 pm</h4></td>
+                    <td>Yoga</td>
+                    <td><span class="empty"></span></td>
+                    <td><span class="empty"></span></td>
+                    <td>Yoga</td>
+                    <td><span class="empty"></span></td>
+                </tr>
+                <tr>
+                    <td><h4 style="margin: 0;">18:00 pm</h4></td>
+                    <td><span class="empty"></span></td>
+                    <td><span class="empty"></span></td>
+                    <td>Estiramiento y Acondicionamiento Físico</td>
+                    <td><span class="empty"></span></td>
+                    <td><span class="empty"></span></td>
+                </tr>
+                <tr>
+                    <td><h4 style="margin: 0;">18:30 pm</h4></td>
+                    <td><span class="empty"></span></td>
+                    <td>Danza para niños</td>
+                    <td><span class="empty"></span></td>
+                    <td>Danza para niños</td>
+                    <td><span class="empty"></span></td>
+                </tr>
+                <tr>
+                    <td><h4 style="margin: 0;">19:00 pm</h4></td>
+                    <td>Afro Contemporaneo</td>
+                    <td><span class="empty"></span></td>
+                    <td>Tec. Clásica</td>
+                    <td><span class="empty"></span></td>
+                    <td><span class="empty"></span></td>
+                </tr>
+                <tr>
+                    <td><h4 style="margin: 0;">19:30 pm</h4></td>
+                    <td><span class="empty"></span></td>
+                    <td><span class="empty"></span></td>
+                    <td><span class="empty"></span></td>
+                    <td>Afro Contemporaneo</td>
+                    <td><span class="empty"></span></td>
+                </tr>
+                <tr>
+                    <td><h4 style="margin: 0;">20:00 pm</h4></td>
+                    <td>Danza Moderna Cubana</td>
+                    <td><span class="empty"></span></td>
+                    <td><span class="empty"></span></td>
+                    <td><span class="empty"></span></td>
+                    <td><span class="empty"></span></td>
+                </tr>
+                <tr>
+                    <td><h4 style="margin: 0;">20:30 pm</h4></td>
+                    <td><span class="empty"></span></td>
+                    <td><span class="empty"></span></td>
+                    <td><span class="empty"></span></td>
+                    <td>Danza Moderna Cubana</td>
+                    <td><span class="empty"></span></td>
+                </tr>
+                </tbody>
+            </table>
+        </div>
 
         <div style="overflow-x: auto" class="visible-xs">
+            <h3>Grilla de Horarios</h3>
             <table class="table table-striped" data-animate="fadeIn">
                 <thead>
                 <tr>
