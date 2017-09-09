@@ -6,7 +6,7 @@
     <br>
     <div class="row" data-animate="fadeIn">
 
-        <div class="col-md-3 col-sm-6 bottommargin">
+        <div class="col-md-2 col-md-offset-1 col-sm-6 bottommargin">
 
             <div class="team">
                 <div class="team-image">
@@ -23,7 +23,7 @@
 
         </div>
 
-        <div class="col-md-3 col-sm-6 bottommargin">
+        <div class="col-md-2 col-sm-6 bottommargin">
 
             <div class="team">
                 <div class="team-image">
@@ -40,7 +40,24 @@
 
         </div>
 
-        <div class="col-md-3 col-sm-6 bottommargin">
+        <div class="col-md-2 col-sm-6 bottommargin">
+
+            <div class="team">
+                <div class="team-image">
+                    <img src="images/gaby_fabro/staff/gisella.jpg" alt="Giselle Otero" class="avatar">
+                </div>
+                <div class="team-desc">
+                    <div class="team-title"><h4>Giselle Otero</h4><span>Fotografía</span></div>
+                    <a href="https://www.facebook.com/giselle.otero" class="social-icon inline-block si-small si-light si-rounded si-facebook">
+                        <i class="icon-facebook"></i>
+                        <i class="icon-facebook"></i>
+                    </a>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="col-md-2 col-sm-6 bottommargin">
 
             <div class="team">
                 <div class="team-image">
@@ -65,7 +82,7 @@
 
         </div>
 
-        <div class="col-md-3 col-sm-6 bottommargin">
+        <div class="col-md-2 col-sm-6 bottommargin">
 
             <div class="team">
                 <div class="team-image">

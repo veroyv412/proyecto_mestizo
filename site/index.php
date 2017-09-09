@@ -100,6 +100,11 @@
                    onclick="$.magnificPopup.close();$('html, body').animate({ scrollTop: $('#novedades').offset().top }, 500);"
                    type="submit"
                    style="margin-top:15px;">Mas Información</a>
+
+                <a class="button button-rounded button-border button-light noleftmargin hidden-xs"
+                   onclick="$.magnificPopup.close();return false;"
+                   type="submit"
+                   style="margin-top:15px;">Cerrar</a>
             </div>
         </div>
     </div>
