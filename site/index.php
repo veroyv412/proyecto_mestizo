@@ -79,7 +79,7 @@
 <!-- Modal -->
 <div class="modal1 mfp-hide" id="myModal1" >
     <div class="block dark divcenter"
-         style="background: url('images/modals/ominira.png') no-repeat;
+         style="background: url('images/modals/audicion.png') no-repeat;
          background-size: cover;
          max-width: 700px;
          data-height-lg="300">
@@ -109,19 +109,20 @@
                    type="submit"
                    style="margin-top:15px;">Mas Información</a>
 
-                <a class="button button-rounded button-border button-light noleftmargin hidden-xs"
-                   onclick="$.magnificPopup.close();$('html, body').animate({ scrollTop: $('#contactus').offset().top }, 500);"
-                   type="submit"
-                   style="margin-top:15px;">Contáctenos</a>
-
                 <a class="button button-rounded button-border button-light noleftmargin hidden-xs right"
                    onclick="$.magnificPopup.close();return false;"
                    type="submit"
                    style="margin-top:15px;">Cerrar</a>
+
+                <a class="button button-rounded button-border button-light noleftmargin"
+                   onclick="$.magnificPopup.close();$('html, body').animate({ scrollTop: $('#next-novedad').offset().top }, 500);"
+                   type="submit"
+                   style="margin-top:15px;">Siguiente > </a>
             </div>
         </div>
     </div>
 </div>
+
 
 <?php echo file_get_contents('./partials/footer.php') ?>
 </body>
