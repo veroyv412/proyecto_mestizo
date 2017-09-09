@@ -25,8 +25,7 @@
                             <li><i class="icon-ok-sign"></i> Hombres y Mujeres que Bailen.</li>
                             <li><i class="icon-ok-sign"></i> Se requiere experiencia escénica.</li>
                             <li><i class="icon-ok-sign"></i> Para realizar una participación en la Obra OMINIRA de Gaby Fabro.</li>
-                            <li><i class="icon-ok-sign"></i> El lenguaje danzario de la obra se basa en lo AFRO MODERNO.</li>
-                            <li><i class="icon-ok-sign"></i> Esto NO es excluyente para poder audicionar.</li>
+                            <li><i class="icon-ok-sign"></i> El lenguaje danzario de la obra se basa en lo AFRO MODERNO. Esto NO es excluyente para poder audicionar.</li>
                             <li><i class="icon-ok-sign"></i> Concurrir con vestimenta que permita observar bien la línea del cuerpo.</li>
                         </ul>
                         <p>

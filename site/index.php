@@ -92,9 +92,8 @@
                 Hombres y Mujeres que Bailen.<br>
                 Se requiere experiencia escénica.<br>
                 Para realizar una participación en la Obra OMINIRA de Gaby Fabro.<br>
-                El lenguaje danzario de la obra se basa en lo AFRO MODERNO. <br>
-                Esto NO es excluyente para poder audicionar.<br>
-                ...<br><br>
+                El lenguaje danzario de la obra se basa en lo AFRO MODERNO. Esto NO es excluyente para poder audicionar. <br>
+                <br><br>
 
                 <a class="button button-rounded button-border button-light noleftmargin"
                    onclick="$.magnificPopup.close();$('html, body').animate({ scrollTop: $('#novedades').offset().top }, 500);"
