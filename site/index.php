@@ -74,5 +74,29 @@
     </div>    
 </section>
 
+<div class="modal-on-load" data-target="#myModal1"></div>
+<!-- Modal -->
+<div class="modal1 mfp-hide" id="myModal1">
+    <div class="block divcenter" style="background-color: #FFF; max-width: 600px;">
+        <div class="center clearfix" style="padding: 50px;">
+            <h3 class="uppercase">NOTICIAS DE ÚLTIMO MOMENTO</h3>
+
+            <h2>Estamos audicionando para la obra Ominira</h2>
+            <p class="lead nobottommargin topmargin-sm">
+                Las audiciones se llevarán a cabo los dias Miércoles y Viernes de 14 a 17hs.<br>
+                Venir con ropa cómoda.
+            </p>
+
+            <iframe src="http://www.youtube.com/watch?v=vYnq8lYCFo8"
+                    frameborder="0"
+                    webkitallowfullscreen=""
+                    mozallowfullscreen=""
+                    allowfullscreen=""
+                    id="66477448"></iframe>
+        </div>
+    </div>
+</div>-->
+
+
 <?php echo file_get_contents('./partials/footer.php') ?>
 </body>

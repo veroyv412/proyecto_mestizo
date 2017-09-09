@@ -24,7 +24,7 @@
                 </div>
                 <div class="fbox-desc">
                     <h3>Tecnica Clásica</h3>
-                    <h6>Martes y Viernes 10.30hs | Miércoles 19.00hs | Jueves 15.30hs </h6>
+                    <h6>Miércoles 10:00hs y 19.00hs | Lunes y Jueves 15.30hs </h6>
                     <p>
                         Estas clases están pensadas para que el estudiante de danza pueda adquirir y aprovechar
                         los beneficios que la técnica clásica ofrece, como técnica madre.
@@ -44,7 +44,7 @@
                 </div>
                 <div class="fbox-desc">
                     <h3>Danza Moderna Cubana</h3>
-                    <h6>Lunes 20hs | Jueves 20.30hs </h6>
+                    <h6>Lunes 20hs | Jueves 20.30hs | Viernes 10hs</h6>
                     <p>
                         En Cuba la danza Moderna comienza como movimiento artístico de vanguardia en 1948 y
                         ya desde 1959 el Conjunto Nacional de Danza Moderna, se desarrolla como institución
@@ -81,7 +81,7 @@
             </div>
         </div>
         
-        <br>
+        <br><br>
         <table class="table table-striped hidden-xs" data-animate="fadeIn">
             <thead>
             <tr>
@@ -97,10 +97,10 @@
             <tr>
                 <td><h4 style="margin: 0;">10:00 am</h4></td>
                 <td><span class="empty"></span></td>
-                <td>Tec. Clásica</td>
-                <td><span class="empty"></span></td>
                 <td><span class="empty"></span></td>
                 <td>Tec. Clásica</td>
+                <td><span class="empty"></span></td>
+                <td>Danza Moderna Cubana</td>
             </tr>
             <tr>
                 <td><h4 style="margin: 0;">15:30 pm</h4></td>
@@ -111,11 +111,19 @@
                 <td><span class="empty"></span></td>
             </tr>
             <tr>
-                <td><h4 style="margin: 0;">16:00 pm</h4></td>
+                <td><h4 style="margin: 0;">17:00 pm</h4></td>
                 <td>Yoga</td>
                 <td><span class="empty"></span></td>
                 <td><span class="empty"></span></td>
                 <td>Yoga</td>
+                <td><span class="empty"></span></td>
+            </tr>
+            <tr>
+                <td><h4 style="margin: 0;">18:00 pm</h4></td>
+                <td><span class="empty"></span></td>
+                <td><span class="empty"></span></td>
+                <td>Estiramiento y Acondicionamiento Físico</td>
+                <td><span class="empty"></span></td>
                 <td><span class="empty"></span></td>
             </tr>
             <tr>
@@ -160,7 +168,105 @@
             </tr>
             </tbody>
         </table>
-    </div>
 
+        <div style="overflow-x: auto" class="visible-xs">
+            <table class="table table-striped" data-animate="fadeIn">
+                <thead>
+                <tr>
+                    <th>&nbsp;</th>
+                    <th>L</th>
+                    <th>M</th>
+                    <th>M</th>
+                    <th>J</th>
+                    <th>V</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                    <td><h4 style="margin: 0;">10:00</h4></td>
+                    <td><span class="empty"></span></td>
+                    <td><span class="empty"></span></td>
+                    <td>T.C.</td>
+                    <td><span class="empty"></span></td>
+                    <td>D.M.C</td>
+                </tr>
+                <tr>
+                    <td><h4 style="margin: 0;">15:30</h4></td>
+                    <td>T.C</td>
+                    <td><span class="empty"></span></td>
+                    <td><span class="empty"></span></td>
+                    <td>T.C.</td>
+                    <td><span class="empty"></span></td>
+                </tr>
+                <tr>
+                    <td><h4 style="margin: 0;">17:00</h4></td>
+                    <td>Yoga</td>
+                    <td><span class="empty"></span></td>
+                    <td><span class="empty"></span></td>
+                    <td>Yoga</td>
+                    <td><span class="empty"></span></td>
+                </tr>
+                <tr>
+                    <td><h4 style="margin: 0;">18:00</h4></td>
+                    <td><span class="empty"></span></td>
+                    <td><span class="empty"></span></td>
+                    <td>E.A.F</td>
+                    <td><span class="empty"></span></td>
+                    <td><span class="empty"></span></td>
+                </tr>
+                <tr>
+                    <td><h4 style="margin: 0;">18:30</h4></td>
+                    <td><span class="empty"></span></td>
+                    <td>D.N</td>
+                    <td><span class="empty"></span></td>
+                    <td>D.N</td>
+                    <td><span class="empty"></span></td>
+                </tr>
+                <tr>
+                    <td><h4 style="margin: 0;">19:00</h4></td>
+                    <td>A.C</td>
+                    <td><span class="empty"></span></td>
+                    <td>T.C</td>
+                    <td><span class="empty"></span></td>
+                    <td><span class="empty"></span></td>
+                </tr>
+                <tr>
+                    <td><h4 style="margin: 0;">19:30</h4></td>
+                    <td><span class="empty"></span></td>
+                    <td><span class="empty"></span></td>
+                    <td><span class="empty"></span></td>
+                    <td>A.C.</td>
+                    <td><span class="empty"></span></td>
+                </tr>
+                <tr>
+                    <td><h4 style="margin: 0;">20:00</h4></td>
+                    <td>D.M.C.</td>
+                    <td><span class="empty"></span></td>
+                    <td><span class="empty"></span></td>
+                    <td><span class="empty"></span></td>
+                    <td><span class="empty"></span></td>
+                </tr>
+                <tr>
+                    <td><h4 style="margin: 0;">20:30</h4></td>
+                    <td><span class="empty"></span></td>
+                    <td><span class="empty"></span></td>
+                    <td><span class="empty"></span></td>
+                    <td>D.M.C</td>
+                    <td><span class="empty"></span></td>
+                </tr>
+                </tbody>
+            </table>
+
+            <strong>
+                Nota:
+                <br>T.C. = Técnica Clásica
+                <br>D.M.C. = Danza Moderna Cubana
+                <br>A.F. = Afro Contemporaneo
+                <br>D.N. = Danza para niños
+                <br>E.A.F. = Estiramiento y Acondicionamiento Físico
+            </strong>
+        </div>
+
+    </div>
 
 </div>
