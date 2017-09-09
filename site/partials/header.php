@@ -20,7 +20,7 @@
 
                 <ul>
                     <li class="current"><a href="/"><div>Home</div></a></li>
-                    <li class="current"><a href="#gaby_fabro"><div>Gaby Gabro</div></a></li>
+                    <li class="current"><a href="#gaby_fabro"><div>Gaby Fabro</div></a></li>
                     <li class="current"><a href="#gallery"><div>Galería</div></a></li>
                     <li class="current"><a href="#clases"><div>Clases</div></a></li>
                     <li class="current"><a href="#compania"><div>Compañia</div></a></li>
