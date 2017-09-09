@@ -22,7 +22,8 @@
                         <li><a href="#"><i class="icon-map-marker2"></i> Teatro El Bombín, Calle 59 N.886 entre 12 y 13, La Plata</a></li>
                     </ul>
                     <div class="entry-content">
-
+                        <p>Seminario "Introducción a la Técnica Afro Contemporánea". 15 hs.</p>
+                        <p>Maestra: GABY FABRO</p>
                     </div>
                     <br><br>
 
