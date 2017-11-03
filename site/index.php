@@ -116,13 +116,14 @@
                         <div class="entry-c">
                             <ul class="entry-meta clearfix">
                                 <li><a href="#"><i class="icon-time"></i> 4 de Noviembre</a></li>
-                                <li><a href="#"><i class="icon-map-marker2"></i>SALA GRAL. JOSE DE SAN MARTIN</a></li>
+                                <li><a href="#"><i class="icon-map-marker2"></i>Fórum Santiago del Estero - Centro de Convenciones</a></li>
                             </ul>
                             <div class="entry-content">
                                 <p>
                                     Destinado a todo el público interesado en la temática.
                                 <br>
                                 A cargo de Gaby Fabro - Bailarina, Coreógrafa, Directora de la Escuela de Danzas Proyecto Mestizo y de la Compañía de Danza Proyecto Mestizo, CABA.
+                                <br>SALA GRAL. JOSE DE SAN MARTIN
                                 </p>
                             </div>
                             <br><br>
