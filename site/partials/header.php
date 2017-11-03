@@ -24,7 +24,7 @@
                     <li class="current"><a href="#gallery"><div>Galería</div></a></li>
                     <li class="current"><a href="#clases"><div>Clases</div></a></li>
                     <li class="current"><a href="#compania"><div>Compañia</div></a></li>
-                    <!--<li class="current"><a href="#novedades"><div>Novedades</div></a></li>-->
+                    <li class="current"><a href="#novedades"><div>Novedades</div></a></li>
                     <li class="current"><a href="#staff"><div>Staff</div></a></li>
                     <li class="current"><a href="#contactus"><div>Contáctenos</div></a></li>
                 </ul>

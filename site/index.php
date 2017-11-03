@@ -90,55 +90,36 @@
         <?php echo file_get_contents('./partials/calendario_clases.php') ?>
         <?php echo file_get_contents('./partials/compania.php') ?>
         <?php /*echo file_get_contents('./partials/events.php') */?>
-        <?php /*echo file_get_contents('./partials/novedades.php')*/?>
+        <?php echo file_get_contents('./partials/novedades.php') ?>
         <?php echo file_get_contents('./partials/staff.php') ?>
         <?php echo file_get_contents('./partials/contactus.php') ?>
     </div>    
 </section>
 
-<!--<div class="modal-on-load" data-target="#myModal1"></div>-->
+<div class="modal-on-load" data-target="#myModal1"></div>
+
 <!-- Modal -->
-<div class="modal1 mfp-hide" id="myModal1" >
-    <div class="block dark divcenter"
-         style="background: url('images/modals/audicion.png') no-repeat;
-         background-size: cover;
-         max-width: 700px;
-         data-height-lg="300">
-        <div style="padding: 50px;">
-            <div class="heading-block nobottomborder bottommargin-sm" style="max-width:500px;">
-                <h3>NOTICIAS DE ÚLTIMO MOMENTO</h3>
-                <span>Compañía Proyecto Mestizo Convoca</span>
-            </div>
-            <div class="widget-subscribe-form-result">
-                <ul class="iconlist">
-                    <li><i class="icon-ok-sign"></i> Hombres y Mujeres que Bailen.</li>
-                    <li><i class="icon-ok-sign"></i> Se requiere experiencia escénica.</li>
-                    <li><i class="icon-ok-sign"></i> Para realizar una participación en la Obra OMINIRA de Gaby Fabro.</li>
-                    <li><i class="icon-ok-sign"></i> El lenguaje danzario de la obra se basa en lo AFRO MODERNO. Esto NO es excluyente para poder audicionar.</li>
-                    <li><i class="icon-ok-sign"></i> Concurrir con vestimenta que permita observar bien la línea del cuerpo.</li>
-                </ul>
-                <p>
-                    Los días de ensayo de la Compañía son:<br>
-                    Miércoles y Viernes de 13.30hs a 17hs.<br>
-                    Pudiendo agregar algún horario de común acuerdo.<br><br>
-
-                    Las funciones se realizarán en los meses de OCTUBRE y NOVIEMBRE.<br>
-                </p>
-
-                <a class="button button-rounded button-border button-light noleftmargin"
-                   onclick="$.magnificPopup.close();$('html, body').animate({ scrollTop: $('#novedades').offset().top }, 500);"
-                   type="submit"
-                   style="margin-top:15px;">Mas Información</a>
-
-                <a class="button button-rounded button-border button-light noleftmargin hidden-xs right"
-                   onclick="$.magnificPopup.close();return false;"
-                   type="submit"
-                   style="margin-top:15px;">Cerrar</a>
-
-                <a class="button button-rounded button-border button-light noleftmargin"
-                   onclick="$.magnificPopup.close();$('html, body').animate({ scrollTop: $('#next-novedad').offset().top }, 500);"
-                   type="submit"
-                   style="margin-top:15px;">Siguiente <i class="icon-chevron-right"></i> </a>
+<div class="modal1 mfp-hide" id="myModal1">
+    <div class="block divcenter" style="background-color: #FFF; max-width: 700px;">
+        <div class="row nomargin clearfix">
+            <div class="col-sm-6" data-height-lg="456" data-height-md="456" data-height-sm="456" data-height-xs="0" data-height-xxs="0" style="background-image: url(images/gaby_fabro/novedades/ominira_musicos.jpg); background-size: cover;"></div>
+            <div class="col-sm-6 col-padding" data-height-lg="456" data-height-md="456" data-height-sm="456" data-height-xs="456" data-height-xxs="456">
+                <div>
+                    <h2 class="uppercase ls1">Novedades</h2>
+                    <h3>OMINIRA</h3>
+                    <p>
+                    <b>Unica Función</b>
+                        <br>    Viernes 10 de Noviembre 21:00hs
+                    <br>
+                    <b>Centro Cultural Pasaje Dardo Rocha</b>
+                    <br>
+                    Sala A. Calle 7 entre 49 y 50, La Plata
+                    <br>Bajo el marco del ESTIVAL NACIONAL DE CULTURA AFRO ARGENTINA
+                    </p>
+                    <p>
+                        <a href="#" class="button" onClick="$.magnificPopup.close();return false;">Cerrar Ventana</a>
+                    </p>
+                </div>
             </div>
         </div>
     </div>
