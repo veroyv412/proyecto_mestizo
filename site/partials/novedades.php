@@ -9,25 +9,50 @@
             <div class="entry clearfix" data-animate="fadeIn">
                 <div class="entry-image hidden-sm">
                     <a href="#">
-                        <img src="images/gaby_fabro/novedades/congreso_la_plata.jpg" alt="Congreso La Plata">
+                        <img src="images/gaby_fabro/novedades/gaby_charla.jpg" alt="Charla">
+                        <div class="entry-date">Nov<span>4</span></div>
+                    </a>
+                </div>
+                <div class="entry-c">
+                    <div class="entry-title">
+                        <h2><a href="#">EL EMPLEO DE LA TÉCNICA EN LAS DANZAS POPULARES Y FOLKLÓRICAS DE LATINOAMERICA Y EL CARIBE</a></h2>
+                    </div>
+                    <ul class="entry-meta clearfix">
+                        <li><a href="#"><i class="icon-time"></i> 4 de Noviembre</a></li>
+                        <li><a href="#"><i class="icon-map-marker2"></i>SALA GRAL. JOSE DE SAN MARTIN</a></li>
+                    </ul>
+                    <div class="entry-content">
+                        <p>
+                            DESTINATARIO: PUBLICO INTERESADO EN LA TEMÁTICA
+                            <br>
+                            A CARGO: GABY FABRO - Bailarina, Coreógrafa, Directora de la Escuela de Danzas Proyecto Mestizo y de la Compañía de Danza Proyecto Mestizo, CABA.
+                        </p>
+                    </div>
+                    <br><br>
+                </div>
+            </div>
+            <div class="entry clearfix" data-animate="fadeIn">
+                <div class="entry-image hidden-sm">
+                    <a href="#">
+                        <img src="images/gaby_fabro/novedades/ominira_musicos.jpg" alt="La Plata">
                         <div class="entry-date">Nov<span>10</span></div>
                     </a>
                 </div>
                 <div class="entry-c">
                     <div class="entry-title">
-                        <h2><a href="#">X Congreso de Danzas</a></h2>
+                        <h2><a href="#">FESTIVAL NACIONAL DE CULTURA AFRO ARGENTINA</a></h2>
                     </div>
                     <ul class="entry-meta clearfix">
-                        <li><a href="#"><i class="icon-time"></i> 13 de setiembre</a></li>
-                        <li><a href="#"><i class="icon-map-marker2"></i> Teatro El Bombín, Calle 59 N.886 entre 12 y 13, La Plata</a></li>
+                        <li><a href="#"><i class="icon-time"></i> 10 de Noviembre</a></li>
+                        <li><a href="#"><i class="icon-map-marker2"></i>Centro Cultural Pasaje Dardo Rocha, Sala A. Calle 7 entre 49 y 50, La Plata</a></li>
                     </ul>
                     <div class="entry-content">
-                        <p>Seminario "Introducción a la Técnica Afro Contemporánea". 15 hs.</p>
-                        <p>Maestra: GABY FABRO</p>
+                        <b>Unica Función</b>
+                        <br>Viernes 10 de Noviembre 21:00hs
+                        <br>
+                        <b>Centro Cultural Pasaje Dardo Rocha</b>
                     </div>
                     <br><br>
-
-                    <a href="images/gaby_fabro/novedades/congreso_la_plata.jpg" class="button button-3d button-large button-rounded button-black"  data-lightbox="image"><i class="icon-camera"></i>Mas Información</a>
                 </div>
             </div>
         </div>

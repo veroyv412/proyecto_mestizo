@@ -96,10 +96,72 @@
     </div>    
 </section>
 
-<div class="modal-on-load" data-target="#myModal1"></div>
 
+<div class="modal-on-load" data-target="#myModal"></div>
 <!-- Modal -->
-<div class="modal1 mfp-hide" id="myModal1">
+<div class="modal1 mfp-hide" id="myModal" >
+    <div class="block divcenter" style="background-color: #FFF; max-width: 700px;">
+        <div style="padding: 50px;">
+            <h3>Novedades</h3>
+            <div class="row" data-animate="fadeIn">
+                <div id="posts" class="events small-thumbs">
+                    <div class="entry clearfix">
+                        <h5><a href="#">EL EMPLEO DE LA TÉCNICA EN LAS DANZAS POPULARES Y FOLKLÓRICAS DE LATINOAMERICA Y EL CARIBE</a></h5>
+                        <div class="entry-image hidden-sm">
+                            <a href="#">
+                                <img src="images/gaby_fabro/novedades/gaby_charla.jpg" alt="Charla">
+                                <div class="entry-date">Nov<span>4</span></div>
+                            </a>
+                        </div>
+                        <div class="entry-c">
+                            <ul class="entry-meta clearfix">
+                                <li><a href="#"><i class="icon-time"></i> 4 de Noviembre</a></li>
+                                <li><a href="#"><i class="icon-map-marker2"></i>SALA GRAL. JOSE DE SAN MARTIN</a></li>
+                            </ul>
+                            <div class="entry-content">
+                                <p>
+                                    Destinado a todo el público interesado en la temática.
+                                <br>
+                                A cargo de Gaby Fabro - Bailarina, Coreógrafa, Directora de la Escuela de Danzas Proyecto Mestizo y de la Compañía de Danza Proyecto Mestizo, CABA.
+                                </p>
+                            </div>
+                            <br><br>
+                        </div>
+                    </div>
+                    <div class="entry clearfix">
+                        <h5><a href="#">FESTIVAL NACIONAL DE CULTURA AFRO ARGENTINA</a></h5>
+                        <div class="entry-image hidden-sm">
+                            <a href="#">
+                                <img src="images/gaby_fabro/novedades/ominira_musicos.jpg" alt="Congreso La Plata">
+                                <div class="entry-date">Nov<span>10</span></div>
+                            </a>
+                        </div>
+                        <div class="entry-c">
+                            <ul class="entry-meta clearfix">
+                                <li><a href="#"><i class="icon-time"></i> 10 de Noviembre</a></li>
+                                <li><a href="#"><i class="icon-map-marker2"></i>Centro Cultural Pasaje Dardo Rocha, Sala A. Calle 7 entre 49 y 50, La Plata</a></li>
+                            </ul>
+                            <div class="entry-content">
+                                <b>Unica Función</b>
+                                <br>Viernes 10 de Noviembre 21:00hs
+                                <br>
+                                <b>Centro Cultural Pasaje Dardo Rocha</b>
+                            </div>
+                            <br><br>
+                        </div>
+                    </div>
+                </div>
+                <a href="#" class="button" onClick="$.magnificPopup.close();return false;">Cerrar Ventana</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<!--<div class="modal-on-load" data-target="#myModal2"></div>
+<!-- Modal -->
+<!--<div class="modal1 mfp-hide" id="myModal2">
     <div class="block divcenter" style="background-color: #FFF; max-width: 700px;">
         <div class="row nomargin clearfix">
             <div class="col-sm-6" data-height-lg="456" data-height-md="456" data-height-sm="456" data-height-xs="0" data-height-xxs="0" style="background-image: url(images/gaby_fabro/novedades/ominira_musicos.jpg); background-size: cover;"></div>
@@ -108,13 +170,13 @@
                     <h2 class="uppercase ls1">Novedades</h2>
                     <h3>OMINIRA</h3>
                     <p>
-                    <b>Unica Función</b>
-                        <br>    Viernes 10 de Noviembre 21:00hs
-                    <br>
-                    <b>Centro Cultural Pasaje Dardo Rocha</b>
-                    <br>
-                    Sala A. Calle 7 entre 49 y 50, La Plata
-                    <br>Bajo el marco del ESTIVAL NACIONAL DE CULTURA AFRO ARGENTINA
+                        <b>Unica Función</b>
+                        <br>Viernes 10 de Noviembre 21:00hs
+                        <br>
+                        <b>Centro Cultural Pasaje Dardo Rocha</b>
+                        <br>
+                        Sala A. Calle 7 entre 49 y 50, La Plata
+                        <br>Bajo el marco del FESTIVAL NACIONAL DE CULTURA AFRO ARGENTINA
                     </p>
                     <p>
                         <a href="#" class="button" onClick="$.magnificPopup.close();return false;">Cerrar Ventana</a>
@@ -123,7 +185,7 @@
             </div>
         </div>
     </div>
-</div>
+</div>-->
 
 
 <?php echo file_get_contents('./partials/footer.php') ?>
