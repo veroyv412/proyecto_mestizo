@@ -90,14 +90,14 @@
         <?php echo file_get_contents('./partials/calendario_clases.php') ?>
         <?php echo file_get_contents('./partials/compania.php') ?>
         <?php /*echo file_get_contents('./partials/events.php') */?>
-        <?php echo file_get_contents('./partials/novedades.php') ?>
+        <?php /*echo file_get_contents('./partials/novedades.php') */?>
         <?php echo file_get_contents('./partials/staff.php') ?>
         <?php echo file_get_contents('./partials/contactus.php') ?>
     </div>    
 </section>
 
 
-<div class="modal-on-load" data-target="#myModal"></div>
+<!--<div class="modal-on-load" data-target="#myModal"></div>
 <!-- Modal -->
 <div class="modal1 mfp-hide" id="myModal" >
     <div class="block divcenter" style="background-color: #FFF; max-width: 700px;">
@@ -158,7 +158,7 @@
     </div>
 </div>
 
-
+-->
 
 <!--<div class="modal-on-load" data-target="#myModal2"></div>
 <!-- Modal -->
