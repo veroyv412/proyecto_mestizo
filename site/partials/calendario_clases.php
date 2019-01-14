@@ -14,7 +14,6 @@
 
     <br>
 
-
     <div class="container clearfix">
 
         <div class="col_one_third nobottommargin">
@@ -62,7 +61,7 @@
             </div>
         </div>
 
-        <div class="col_one_third nobottommargin col_last">
+        <div class="col_one_third bottommargin-lg col_last">
             <div class="feature-box media-box" data-animate="fadeInRight">
                 <div class="fbox-media">
                     <img src="images/gaby_fabro/gaby_afro.jpg" alt="Gaby Fabro - Danza Afrocontemporanea">
@@ -80,7 +79,35 @@
                 </div>
             </div>
         </div>
-        
+
+        <br>
+        <div class="heading-block center nomargin" data-animate="fadeInUp">
+            <h3>CURSOS DE VERANO - COMIENZO 1° FEBRERO</h3>
+        </div>
+        <br>
+        <div class="row well" data-animate="fadeInUp">
+            <div class="col-xs-12 col-sm-6">
+                <p>
+                    <b>Turno mañana:</b><br>
+                    Miercoles 10,3 hs., Danza Moderna Cubana<br>
+                    Viernes 10,3 hs., Técnica Clásica<br><br>
+                </p>
+            </div>
+            <div class="col-xs-12 col-sm-6">
+                <p>
+                    <b>Turno noche:</b><br>
+                    Lunes 19,3 hs., AfroContemporáneo, 20,3 hs., Técnica Clásica<br>
+                    Jueves 19,3 hs., AfroContemporáneo, 20,3 hs-. Danza Moderna Cubana<br>
+                </p>
+            </div>
+        </div>
+
+
+        <div class="heading-block center nomargin">
+            <h3>Horarios a Partir de Marzo</h3>
+        </div>
+        <br>
+
         <div class="hidden-xs">
             <br><br>
             <table class="table table-striped hidden-xs" data-animate="fadeIn">
